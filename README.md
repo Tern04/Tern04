@@ -1,13 +1,13 @@
-### Hi, I'm Tomáš 👋
+### Hi, I'm Tomáš
 
 Computer Science student at the **Faculty of Applied Sciences, University of West Bohemia (FAV ZČU)**, finishing my bachelor's degree in May 2027.
 Alongside my studies I **teach IT at SPŠ Tachov**: programming and practical classes. I also guide students through the projects they build for their final exam.
 
 I enjoy **game development** and procedural generation most, and I'm looking for a junior software engineering role.
 
-- 🛠️ **Main stack:** C# · Java · C · Unity
-- 🌱 **Currently learning:** Rust · C++
-- 📍 **Location:** Planá u Mariánských Lázní, Czechia. Open to on-site work in the Plzeň region, or remote.
+- **Main stack:** C# · Java · C · Unity
+- **Currently learning:** Rust · C++
+- **Location:** Planá u Mariánských Lázní, Czechia. Open to on-site work in the Plzeň region, or remote.
 
 ---
 
@@ -24,4 +24,4 @@ I enjoy **game development** and procedural generation most, and I'm looking for
 
 ### Contact
 
-📫 [tomas.rybak.7@seznam.cz](mailto:tomas.rybak.7@seznam.cz)
+[tomas.rybak.7@seznam.cz](mailto:tomas.rybak.7@seznam.cz)
