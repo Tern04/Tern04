@@ -1,9 +1,13 @@
-### Hi, I'm Tomáš
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner/banner-dark.svg">
+  <img alt="Tomáš Rybák: software, games, procedural generation" src="banner/banner-light.svg" width="100%">
+</picture>
+<p align="right"><sub>Banner generated with Wave Function Collapse: <a href="banner/wfc_banner.py">source</a></sub></p>
 
-Computer Science student at the **Faculty of Applied Sciences, University of West Bohemia (FAV ZČU)**, finishing my bachelor's degree in 2027.
+Hi, I'm Tomáš, a Computer Science student at the **Faculty of Applied Sciences, University of West Bohemia (FAV ZČU)**, finishing my bachelor's degree in 2027.
 Alongside my studies I **teach IT at SPŠ Tachov**: programming and practical classes. I also guide students through the projects they build for their final exam.
 
-I enjoy **game development** and procedural generation most, and I'm looking for a junior software engineering role.
+I enjoy **game development** and procedural generation most, and I'm working toward a career as a software engineer.
 
 - **Main stack:** C# · Java · C · Unity
 - **Currently learning:** Rust · C++
