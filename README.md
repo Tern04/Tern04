@@ -1,6 +1,6 @@
 ### Hi, I'm Tomáš
 
-Computer Science student at the **Faculty of Applied Sciences, University of West Bohemia (FAV ZČU)**, finishing my bachelor's degree in May 2027.
+Computer Science student at the **Faculty of Applied Sciences, University of West Bohemia (FAV ZČU)**, finishing my bachelor's degree in 2027.
 Alongside my studies I **teach IT at SPŠ Tachov**: programming and practical classes. I also guide students through the projects they build for their final exam.
 
 I enjoy **game development** and procedural generation most, and I'm looking for a junior software engineering role.
